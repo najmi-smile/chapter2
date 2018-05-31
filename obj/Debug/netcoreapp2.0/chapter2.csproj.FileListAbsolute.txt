@@ -1,0 +1,11 @@
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\obj\Debug\netcoreapp2.0\chapter2.csprojResolveAssemblyReference.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\obj\Debug\netcoreapp2.0\chapter2.csproj.CoreCompileInputs.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\obj\Debug\netcoreapp2.0\chapter2.AssemblyInfoInputs.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\obj\Debug\netcoreapp2.0\chapter2.AssemblyInfo.cs
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\bin\Debug\netcoreapp2.0\chapter2.deps.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\bin\Debug\netcoreapp2.0\chapter2.runtimeconfig.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\bin\Debug\netcoreapp2.0\chapter2.runtimeconfig.dev.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\bin\Debug\netcoreapp2.0\chapter2.dll
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\bin\Debug\netcoreapp2.0\chapter2.pdb
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\obj\Debug\netcoreapp2.0\chapter2.dll
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\chapter2\chapter2\obj\Debug\netcoreapp2.0\chapter2.pdb
